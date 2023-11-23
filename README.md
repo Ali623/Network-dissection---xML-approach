@@ -4,6 +4,8 @@
 
 This repository showcases a neural network model along with the implementation of Network Dissection, an explainable machine learning concept. Network Dissection allows us to visualize and understand how the layers within the neural network are learning and representing information.
 
+![Results](https://github.com/Ali623/Network-dissection-Explainable-Machine-learning/blob/main/gif/ezgif-4-a0ab15583e.gif)
+
 ## About the Model
 
 - **Model Architecture**: Our neural network is designed with a specific architecture that includes 12 convolution layers.
